@@ -1,6 +1,6 @@
 # Welcome to Soham Panchal's GitHub Profile
 
-Hi there! I'm Soham Panchal, a passionate backend developer with a strong focus on Machine Learning and AI. I specialize in backend development using Django and SQL, and I'm currently involved in several exciting projects related to dynamic flows, sentiment analysis, and AI integration.
+Hi there! I'm Soham Panchal, a passionate full stack developer. I specialize in backend development using Django and SQL, and I'm currently involved in several exciting projects related to dynamic flows, sentiment analysis, and AI integration.
 
 ## 🛠️ Tech Stack
 
